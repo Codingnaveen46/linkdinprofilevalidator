@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    margin-left: 805px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #0077B5;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005C8E;
+  }
+  
+  p#output-message {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+    color: #0077B5;
+  }
+  
